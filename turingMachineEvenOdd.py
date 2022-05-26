@@ -33,11 +33,23 @@ def turingMachine(tape):
         
     return output
 
+
+
+
 print("****Even Odd Turing Machine****")
 
 tape1 = [1,1,0]
 tape2 = [1,1,1,0]
 tape3 = [1,1,1,1,0]
 
-turingMachine(tape1)
+turingMachine(tape2)
 #print(turingMachine(tape2))
+
+## non turing way to tell if even or odd
+'''
+if tape2.count(1)%2 == 0:
+    print("even")
+else:
+    print("odd")
+
+    '''
