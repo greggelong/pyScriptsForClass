@@ -14,3 +14,7 @@ Then, it will return a zero if the number is odd and and one if the number is ev
 The concept and image are from: Alan Turing: Crash Course Computer Science #15
 
 https://youtu.be/7TycxwFmdB0
+
+I have written a function in python to model this even odd touring machine
+
+
