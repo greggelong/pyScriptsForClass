@@ -17,4 +17,8 @@ https://youtu.be/7TycxwFmdB0
 
 I have written a function in python to model this even odd touring machine
 
+see the code above 
 
+or run it live at
+
+https://replit.com/@greggelong/turingMachineEvenOdd?v=1
