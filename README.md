@@ -43,4 +43,7 @@ monkey()
 - if it is not it will break and return the largest string that
 
 
+There is a great short animation
+
+https://youtu.be/IkLeto3RZrk
 
