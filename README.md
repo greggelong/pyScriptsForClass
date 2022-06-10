@@ -32,4 +32,15 @@ from wikipedea
 >The infinite monkey theorem states that a monkey hitting keys at random on a typewriter keyboard for an infinite amount of time will almost surely type any given text, such as the complete works of William Shakespeare. In fact, the monkey would almost surely type every possible finite text an infinite number of times. 
 >
 
+In hamlet1.py I have made a small function called 
+
+monkey()
+
+- a string variable is set to ""
+
+- then a random characters are added to the string.
+- if that string is in the hamlet text another character is added to the string
+- if it is not it will break and return the largest string that
+
+
 
