@@ -23,8 +23,13 @@ or run it live at
 
 https://replit.com/@greggelong/turingMachineEvenOdd?v=1
 
+-------
 
 ## [Infinite monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem)
 
+from wikipedea
+
+>The infinite monkey theorem states that a monkey hitting keys at random on a typewriter keyboard for an infinite amount of time will almost surely type any given text, such as the complete works of William Shakespeare. In fact, the monkey would almost surely type every possible finite text an infinite number of times. 
+>
 
 
