@@ -38,7 +38,7 @@ monkey()
 
 - a string variable is set to ""
 
-- then a random characters are added to the string.
+- then a random character is added to the string.
 - if that string is in the hamlet text another character is added to the string
 - if it is not it will break and return the largest string that
 
