@@ -22,3 +22,9 @@ see the code above
 or run it live at
 
 https://replit.com/@greggelong/turingMachineEvenOdd?v=1
+
+
+## [Infinite monkey theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem)
+
+
+
