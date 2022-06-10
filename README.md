@@ -8,7 +8,7 @@ This machine will count the number of ones on a tape before reaching a zero.
 
 Then, it will return a zero if the number is odd and and one if the number is even
 
-![turingMachine](turingMachine.png)
+![turingMachine](turingM.png)
 
 
 The concept and image are from: Alan Turing: Crash Course Computer Science #15
