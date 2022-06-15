@@ -47,3 +47,11 @@ There is a great short animation
 
 https://youtu.be/IkLeto3RZrk
 
+## recursive vs iterative
+
+I have some python scripts for Fibonacci that highlight the differences in speed using recursive and iterative functions
+
+I have finally made a version of the golden rectangle using an iterative function in Processing
+
+![wreck](fibWreck4.png)
+
